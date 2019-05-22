@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555768548712.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2286798397",
+    "id" : "82434F45",
+    "lastKnownWriteTime" : 1555860751,
+    "last_content_update" : 1555860751914,
+    "path" : "~/Documents/R Tutorial/R_ggplot2/R_Code/GGPlot_Code_2.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "48,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

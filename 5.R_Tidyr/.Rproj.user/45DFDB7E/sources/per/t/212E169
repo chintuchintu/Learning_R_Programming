@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556185038218.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1992963511",
+    "id" : "212E169",
+    "lastKnownWriteTime" : 1556527876,
+    "last_content_update" : 1556527876419,
+    "path" : "~/Documents/R Tutorial/R_tidyr/R_Code/Tidyr_Code.R",
+    "project_path" : "Tidyr_Code.R",
+    "properties" : {
+        "cursorPosition" : "75,34",
+        "scrollLine" : "66",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

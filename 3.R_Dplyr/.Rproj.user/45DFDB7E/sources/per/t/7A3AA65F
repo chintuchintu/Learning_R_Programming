@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556182450999.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A3AA65F",
+    "lastKnownWriteTime" : 4362452480,
+    "last_content_update" : 1556182450999,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A42D422F",
+        "caption" : "data_cars",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data_cars&cache_key=A42D422F",
+        "displayedObservations" : 32,
+        "environment" : "",
+        "object" : "data_cars",
+        "preview" : 0,
+        "totalObservations" : 32,
+        "variables" : 11
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
